@@ -1,25 +1,25 @@
+How to run Project==>
+open Vs Code Terminal
 First Command: npm star
-
 Second Command: json-server --watch db.json --port 3001
 
-all List Page.
-![Screenshot 2024-02-18 114038](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/b153d46b-9358-4a82-8a2c-669a94f76353)
+All List Page
+![Screenshot 2024-02-18 113841](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/057e8235-7b23-4c68-ac93-b5cc3764a075)
 
+Add User Page
+![Screenshot 2024-02-18 113953](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/b02a772c-bedd-4bcd-872b-c2751020e5aa)
 
-![Screenshot 2024-02-18 114143](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/974d7ce7-8324-4faf-ba5d-f189ea07bfd3)
+Read Single data page
+![Screenshot 2024-02-18 114038](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/dc94a2b9-909d-45d1-abf4-c98ddd78287a)
 
+Update Page 
+![Screenshot 2024-02-18 114143](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/20f6312c-5cb6-4468-80bf-3d194f860b86)
 
-![Screenshot 2024-02-18 114203](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/33696b14-0703-479d-ae68-6ad03c487f55)
+Delete Page
 
+![Screenshot 2024-02-18 114203](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/e44fc959-ad6b-40ca-8e90-92d1a6638364)
 
-![Screenshot 2024-02-18 114234](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/78c73351-960a-401f-8195-36291b4b5420)
+Search Page
 
-
-![Screenshot 2024-02-18 113841](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/4566eee7-59e8-41f0-86c3-ee2fec984513)
-
-
-![Screenshot 2024-02-18 113953](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/bae0f816-6600-40a4-ba76-32a45139e7ed)
-
-
-![Screenshot 2024-02-18 114007](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/91c9b1a8-b2e8-4137-b79f-262f1da49768)
+![Screenshot 2024-02-18 114234](https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation/assets/108190320/5c94788f-f4d6-4d17-993c-9751a69f7ac5)
 
