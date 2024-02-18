@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "name": "Ramesh",
+      "username": "Ramesh@gmail.com",
+      "title": "C#",
+      "author": "Ramesh Pati",
+      "id": 1
+    },
+    {
+      "name": "neel kakae",
+      "username": "nell@gmail.com",
+      "title": "C++",
+      "author": "neels k",
+      "id": 2
+    },
+    {
+      "name": "dipak",
+      "username": "dipak@gmail.com",
+      "title": "javascript",
+      "author": "dipak t",
+      "id": 3
+    },
+    {
+      "name": "rakesh",
+      "username": "rakseh@gmail.com",
+      "title": "java",
+      "author": "rakesh r",
+      "id": 4
+    },
+    {
+      "name": "mukta",
+      "username": "mukta@gmail.com",
+      "title": "nodejs",
+      "author": "muktai a",
+      "id": 5
+    },
+    {
+      "name": "amit",
+      "username": "amitbhivsane@gmail.com",
+      "title": "mern",
+      "author": "Amit b",
+      "id": 6
+    },
+    {
+      "name": "mahesh babu",
+      "username": "maheshB",
+      "title": "xml html",
+      "author": "mahesh babulal",
+      "id": 7
+    }
+  ]
+}
